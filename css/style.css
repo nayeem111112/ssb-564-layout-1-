@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: red;
+    height: 100px;
+    color: aqua;
+    text-align: center;
+}
+.banner{
+    background-color: cadetblue;
+    text-align: center;
+    height: 400px;
+    font-size: 50px;
+}
+.about{
+    display: flex;
+}
+.left{
+    width: 50%;
+    height: 300px;
+    background-color: chocolate;
+    text-align: center;
+}
+.right{
+width: 50%;
+height: 300px;
+background-color: darkolivegreen;
+text-align: center;
+}
+.Feature{
+    display: flex;
+    text-align: center;
+}
+.First{
+    width: 33.3%;
+    height: 200px;
+    background-color: gold;
+}
+.Second{
+    width: 33.3%;
+    height: 200px;
+    background-color: cornflowerblue;
+}
+.Third{
+    width: 33.3%;
+    height: 200px;
+    background-color: darksalmon;
+}
+.ad{
+    display: flex;
+    text-align: center;
+} 
+.Left_ad{
+    width: 30%;
+    height: 200px;
+    background-color: darkorchid;
+}
+.Right_ad{
+    width: 70%;
+    height: 200px;
+    background-color: coral;
+}
+.slider{
+    display: flex;
+    text-align: center;
+}
+.left_slider{
+    width: 80%;
+    height: 200px;
+    background-color: indianred;
+}
+.right_slider{
+    width: 20%;
+    height: 200px;
+    background-color: indigo;
+}
+footer{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    height: 100px;
+}
